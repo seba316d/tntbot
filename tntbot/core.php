@@ -29,6 +29,5 @@ while (true){
     afk();
     welcomemsg();
     poke();
-	unset($core);
 }
 
